@@ -1,0 +1,2 @@
+# MegaMocapTest
+Test MegaMocap plugin.
